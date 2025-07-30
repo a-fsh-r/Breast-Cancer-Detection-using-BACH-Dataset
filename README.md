@@ -1,3 +1,10 @@
-# Multi-Class Classification of Breast Cancer Using Histopathology Images
+## 🎯 Multi-Class Classification of Breast Cancer Using Histopathology Images
 
-Implemented deep learning-based methods for accurate detection of breast cancer from the BACH histopathology dataset. Enhanced model performance through data preprocessing, augmentation, and fine-tuning of CNN architectures.
+In this project, we implemented deep learning-based methods for the accurate classification of breast cancer using histopathology images from the **BACH dataset**. 
+
+Key contributions include:
+
+- 📊 Leveraging the diverse BACH dataset consisting of multiple breast cancer classes to train robust models  
+- 🛠️ Applying comprehensive data preprocessing and augmentation techniques to improve model generalization and reduce overfitting  
+- 🔍 Fine-tuning state-of-the-art convolutional neural network (CNN) architectures to achieve high classification accuracy across multiple classes  
+- 📈 Enhancing detection performance by optimizing training pipelines and hyperparameters  
